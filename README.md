@@ -1,5 +1,3 @@
-A METHOD FOR SECURE INFORMATION TRANSFER AND PATH PLANNING DURING LANDMINE DETECTION
-Abstract:
 Many people lose their lives because of hidden landmines every day all round the world. The effect of landmine is so huge that it 
 has a three-fold effect on humanity. The loss of limb or life has threatened so many people working in landmine prone areas.
 Also the presence of landmines has deteriorated the lands which could in turn be used as a productive resource. 
